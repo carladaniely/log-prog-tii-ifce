@@ -4,12 +4,12 @@
 
 **Atividade da Unidade 6 da Disciplina de Lógica de Programação**
 
-**Redenção-CE**
+**Baturite **
 **2024**
 
-**Identificação do Aluno**
+**Identificação do Aluna**
 
-**Nome:** Pedro Henrique Marinho Euzebio
+**Nome:** Antonia Carla Daniely Gomes Arruda
 **Curso:** Técnico Subsequente em Informática para Internet
 **Turma:** 2024.1
 
